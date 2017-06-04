@@ -2,8 +2,8 @@
   <div class="tab">
     <h1>{{ msg }}</h1>
     <h2>Tab components - tanelmer</h2>
-    <p>1.首先写vue组件</p>
-  	<p>2.然后在去看vue路由相关</p>
+    <p>1.vue tab组件</p>
+  	<p>2.vue路由相关</p>
   </div>
 </template>
 
